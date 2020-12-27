@@ -43,7 +43,7 @@ body{
 	transition : all 0.3s ease-out;
 }
 .start-header.scroll-on .navbar-brand img{
-	height: 30px;
+	height: 50px;
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
 }
@@ -60,7 +60,7 @@ body{
     padding: 0;
 }
 .navbar-brand img{
-	height: 40px;
+	height: 50px;
 	width: auto;
     display: block;
     filter: invert(68%) sepia(79%) saturate(1990%) hue-rotate(106deg) brightness(100%) contrast(108%);
